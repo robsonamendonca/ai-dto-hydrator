@@ -1,0 +1,20 @@
+{
+    "name": "inovacao/ai-hydrator",
+    "description": "Uma classe inovadora que utiliza IA para hidratar e mapear DTOs tipados no PHP 8+",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Innovation\\AIHydrator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Seu Nome",
+            "email": "seu-email@provedor.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
